@@ -30,6 +30,9 @@ The dashboard is fully built in **Power BI** with custom DAX measures.
 
 <img width="686" height="413" alt="CFPB- png 1" src="https://github.com/user-attachments/assets/54c73c67-70e8-4474-ad19-0d422bb47b45" />
 
+Download the Power BI report: [PBIX file](https://drive.google.com/file/d/1hfmQjkNHUZozLetUr68FwowfZ6apTpW1/view?usp=sharing)
+
+
 
 ---
 
