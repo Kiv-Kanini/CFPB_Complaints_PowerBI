@@ -28,7 +28,7 @@ This project analyzes CFPB complaint data to uncover:
 
 The dashboard is fully built in **Power BI** with custom DAX measures.
 
-<img width="686" height="413" alt="CFPB- png 1" src="https://github.com/user-attachments/assets/54c73c67-70e8-4474-ad19-0d422bb47b45" />
+<img width="641" height="396" alt="CFPB PNG 1" src="https://github.com/user-attachments/assets/91781c1b-a085-4826-8115-5a68e8fdeb2f" />
 
 <img width="643" height="395" alt="CFPB - png 2" src="https://github.com/user-attachments/assets/4b92b54d-a11a-4b9e-a69c-5bfe535ad4cf" />
 
